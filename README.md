@@ -71,14 +71,14 @@ Les fichiers dans le dossier `output` sont les résultats du modele, pendant et 
       - `model_BS_6_0.00003_350spectrograms_epoch_20.png`
 
 
-[MLSP Presentation_Clonage_de_la_voix.pdf](https://github.com/isabelleysseric/voice-cloning/blob/main/MLSP%20Presentation_Clonage_de_la_voix.pdf)<br/>
-[MLSP_Rapport_Clonage_de_la_voix.pdf](https://github.com/isabelleysseric/voice-cloning/blob/main/MLSP_Rapport_Clonage_de_la_voix.pdf)<br/>
-[README.md](https://github.com/isabelleysseric/voice-cloning/blob/main/README.md)<br/>
-[data_cleaned.zip](https://github.com/isabelleysseric/voice-cloning/blob/main/data_cleaned.zip)<br/>
-[list.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/list.txt)<br/>
-[ljs_audio_text_test_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_test_filelist.txt)<br/>
-[ljs_audio_text_train_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_train_filelist.txt)<br/>
-[ljs_audio_text_val_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_val_filelist.txt)<br/>
+[MLSP Presentation_Clonage_de_la_voix.pdf](https://github.com/isabelleysseric/voice-cloning/blob/main/MLSP%20Presentation_Clonage_de_la_voix.pdf)  
+[MLSP_Rapport_Clonage_de_la_voix.pdf](https://github.com/isabelleysseric/voice-cloning/blob/main/MLSP_Rapport_Clonage_de_la_voix.pdf)  
+[README.md](https://github.com/isabelleysseric/voice-cloning/blob/main/README.md)  
+[data_cleaned.zip](https://github.com/isabelleysseric/voice-cloning/blob/main/data_cleaned.zip)  
+[list.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/list.txt)  
+[ljs_audio_text_test_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_test_filelist.txt)  
+[ljs_audio_text_train_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_train_filelist.txt)  
+[ljs_audio_text_val_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_val_filelist.txt)  
 
 
   
