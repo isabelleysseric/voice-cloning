@@ -16,11 +16,12 @@
 <br/>
 <br/>
 
-**Note**: Le notebook est à exécuter dans Google Colab. Vous avez besoin du dataset *data_cleaned.zip* que l'on importe dans le dossier `/content/`
-Remplacer les fichiers du dossier `/content/TTS-TT2/filelists/` par mes fichiers qui portent le même nom.
+**Note**: Le notebook `Voice_cloning_Training_with_Tacotron2_and_WaveGlow.ipynb` est à exécuter dans *Google Colab*. Une fois dans Colab, vous avez besoin d'importer le dataset *data_cleaned.zip* dans le dossier courant `/content/`
+Remplacer les fichiers du dossier `/content/TTS-TT2/filelists/` par mes fichiers qui portent le même nom apres avoir installé Tacontron2. Le reste du code s'occupera de le décompresser et de le mettre dans le nouveau dossier `/content/TTS-TT2/wavs/`
+Le programme vous demandera ensuite de charger votre fichier de transcription. Vous lui donnerez le fichier `list.txt`  
 
 Les fichiers dans le dossier `input` sont necessaires pour donner en entrée au modele de synthese vocale. On les retrouve aussi à la racine du projet. Les fichiers wavs correspoindent au fichier zip: data_cleaned.zip et les fichiers `list.txt`, `ljs_audio_text_val_filelists.txt`, `ljs_audio_text_val_filelists.txt` et `ljs_audio_text_val_filelists.txt` se retrouvent également à la racine du projet.  
-Les fichiers dans le dossier `output` sont les résultats du modele, pendant et apres l'apprentissage.
+Les fichiers dans le dossier `output` sont les résultats du modele, pendant et apres l'apprentissage.  
 
 **TREE**:
 
