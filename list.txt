@@ -1,0 +1,59 @@
+/content/TTS-TT2/wavs/1.wav|The little bunny hopped through the forest looking for carrots.
+/content/TTS-TT2/wavs/2.wav|Once upon a time, there was a magical kingdom in the clouds.
+/content/TTS-TT2/wavs/3.wav|The friendly bear waved hello to all the animals in the wood.
+/content/TTS-TT2/wavs/4.wav|Every night, the twinkling stars would tell stories in the sky.
+/content/TTS-TT2/wavs/5.wav|The rainbow appeared, showing all its beautiful colors.
+/content/TTS-TT2/wavs/6.wav|Ducks love to splash around in the pond during the summer.
+/content/TTS-TT2/wavs/7.wav|The curious kitten found a ball of yarn and played all day.
+/content/TTS-TT2/wavs/8.wav|We can count the colorful balloons at the birthday party.
+/content/TTS-TT2/wavs/9.wav|Let's go on a treasure hunt in the backyard.
+/content/TTS-TT2/wavs/10.wav|There are five little fish swimming in the river.
+/content/TTS-TT2/wavs/11.wav|The brave astronaut took a spaceship to the moon.
+/content/TTS-TT2/wavs/12.wav|In the jungle, you can hear the lions roar loudly.
+/content/TTS-TT2/wavs/13.wav|The train chugged along, passing mountains and valleys.
+/content/TTS-TT2/wavs/14.wav|She built the tallest tower with her blocks.
+/content/TTS-TT2/wavs/15.wav|The little turtle carried his home on his back everywhere he went.
+/content/TTS-TT2/wavs/16.wav|On a sunny day, the flowers in the garden dance in the breeze.
+/content/TTS-TT2/wavs/17.wav|The wise old owl stayed awake to watch over the forest.
+/content/TTS-TT2/wavs/18.wav|Let's make a big sand castle on the beach.
+/content/TTS-TT2/wavs/19.wav|The penguins waddle around on the ice, looking very funny.
+/content/TTS-TT2/wavs/20.wav|Can you name all the planets in our solar system?
+/content/TTS-TT2/wavs/21.wav|The friendly ghost says boo, but he's not scary at all.
+/content/TTS-TT2/wavs/22.wav|Let's fly kites high in the sky on a windy day.
+/content/TTS-TT2/wavs/23.wav|The princess and the prince lived happily ever after.
+/content/TTS-TT2/wavs/24.wav|In autumn, the leaves turn orange, red, and yellow.
+/content/TTS-TT2/wavs/25.wav|The busy bees buzzed from flower to flower.
+/content/TTS-TT2/wavs/26.wav|Every morning, the rooster crows to wake up the farm.
+/content/TTS-TT2/wavs/27.wav|The little ants marched in line to carry their food.
+/content/TTS-TT2/wavs/28.wav|The fluffy cloud looked like a bunny in the sky.
+/content/TTS-TT2/wavs/29.wav|Let's count the stars in the sky before bedtime.
+/content/TTS-TT2/wavs/31.wav|The frog leaped high to catch the flying bug.
+/content/TTS-TT2/wavs/32.wav|A big, round, yellow sun smiled down on the village.
+/content/TTS-TT2/wavs/33.wav|The funny monkey loves to swing from tree to tree.
+/content/TTS-TT2/wavs/34.wav|She found the most beautiful shell on the beach.
+/content/TTS-TT2/wavs/35.wav|The children played hide and seek in the park.
+/content/TTS-TT2/wavs/36.wav|Let's sing a song about happy little sunflowers.
+/content/TTS-TT2/wavs/37.wav|The tiny mouse sneaked out to find some cheese.
+/content/TTS-TT2/wavs/38.wav|The old pirate map led to a buried treasure chest.
+/content/TTS-TT2/wavs/39.wav|The dragon breathed fire but was friendly to everyone.
+/content/TTS-TT2/wavs/40.wav|The fairies danced under the moonlight.
+/content/TTS-TT2/wavs/41.wav|The wizard waved his wand and cast a magic spell.
+/content/TTS-TT2/wavs/42.wav|Let's ride our bikes around the neighborhood.
+/content/TTS-TT2/wavs/43.wav|The young prince went on an adventure in the forest.
+/content/TTS-TT2/wavs/44.wav|Can you help me solve this fun puzzle?
+/content/TTS-TT2/wavs/45.wav|The rainbow fish had scales in all different colors.
+/content/TTS-TT2/wavs/46.wav|The clock struck twelve, and the mice ran up the clock.
+/content/TTS-TT2/wavs/47.wav|The little ducklings followed their mother in a line.
+/content/TTS-TT2/wavs/48.wav|She painted a beautiful picture with all her crayons.
+/content/TTS-TT2/wavs/49.wav|At night, the moon watches over our dreams.
+/content/TTS-TT2/wavs/50.wav|The superheroes saved the day with courage and kindness.
+/content/TTS-TT2/wavs/51.wav|This phrase no doubt contained a wealth of sounds.
+/content/TTS-TT2/wavs/52.wav|Just keep examining every low bid quoted for zinc etchings.
+/content/TTS-TT2/wavs/53.wav|A quick movement of the enemy will jeopardize six gunboats.
+/content/TTS-TT2/wavs/54.wav|All questions asked by five watched experts amaze the judge.
+/content/TTS-TT2/wavs/55.wav|The box was thrown beside the parked truck.
+/content/TTS-TT2/wavs/56.wav|Enjoy the usual leisure, book and cushion, young fashion boy with vision.
+/content/TTS-TT2/wavs/57.wav|The five boxing wizards jump quickly.
+/content/TTS-TT2/wavs/58.wav|Fix problem quickly with galvanized jets.
+/content/TTS-TT2/wavs/59.wav|Heavy boxes perform quick waltzes and jigs.
+/content/TTS-TT2/wavs/60.wav|Pack my box with five dozen liquor jugs.

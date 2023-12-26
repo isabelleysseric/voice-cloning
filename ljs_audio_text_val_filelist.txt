@@ -1,0 +1,2 @@
+/content/TTS-TT2/wavs/10.wav|There are five little fish swimming in the river.
+/content/TTS-TT2/wavs/20.wav|Can you name all the planets in our solar system?
