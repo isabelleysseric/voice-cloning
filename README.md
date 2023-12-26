@@ -83,4 +83,14 @@ Les fichiers dans le dossier `output` sont les résultats du modele, pendant et 
 [ljs_audio_text_val_filelist.txt](https://github.com/isabelleysseric/voice-cloning/blob/main/ljs_audio_text_val_filelist.txt)  
 
 
-  
+<br/>
+<br/>
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/voice-cloning/tree/main">Voice-Cloning</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Birdcall-identification/wiki">Voice-Cloning</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
+</p>
+<br/>
+<br/>
