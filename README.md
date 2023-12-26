@@ -19,7 +19,7 @@
 **Note**: Le notebook est à exécuter dans Google Colab. Vous avez besoin du dataset *data_cleaned.zip* que l'on importe dans le dossier `/content/`
 Remplacer les fichiers du dossier `/content/TTS-TT2/filelists/` par mes fichiers qui portent le même nom.
 
-Les fichiers dans le dossier `input` sont necessaires pour donner en entrée au modele de synthese vocale.
+Les fichiers dans le dossier `input` sont necessaires pour donner en entrée au modele de synthese vocale. On les retrouve aussi à la racine du projet. Les fichiers wavs correspoindent au fichier zip: data_cleaned.zip et les fichiers `list.txt`, `ljs_audio_text_val_filelists.txt`, `ljs_audio_text_val_filelists.txt` et `ljs_audio_text_val_filelists.txt` se retrouvent également à la racine du projet.  
 Les fichiers dans le dossier `output` sont les résultats du modele, pendant et apres l'apprentissage.
 
 **TREE**:
