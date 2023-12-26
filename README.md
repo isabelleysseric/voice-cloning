@@ -71,6 +71,7 @@ Les fichiers dans le dossier `output` sont les résultats du modele, pendant et 
       - `model_BS_6_0.00003_350spectrograms_epoch_20.png`
 
 
+[Voice_cloning_Training_with_Tacotron2_and_WaveGlow.ipynb](https://github.com/isabelleysseric/voice-cloning/blob/main/Voice_cloning_Training_with_Tacotron2_and_WaveGlow.ipynb)  
 [MLSP Presentation_Clonage_de_la_voix.pdf](https://github.com/isabelleysseric/voice-cloning/blob/main/MLSP%20Presentation_Clonage_de_la_voix.pdf)  
 [MLSP_Rapport_Clonage_de_la_voix.pdf](https://github.com/isabelleysseric/voice-cloning/blob/main/MLSP_Rapport_Clonage_de_la_voix.pdf)  
 [README.md](https://github.com/isabelleysseric/voice-cloning/blob/main/README.md)  
