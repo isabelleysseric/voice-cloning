@@ -1,4 +1,17 @@
 # voice-cloning
+<br/>
+<br/>
+
+
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/voice-cloning/tree/main">voice-cloning</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/voice-cloning/wiki">voice-cloning</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
+</p>
+<br/>
+<br/>
 
 **Note**: Le notebook est à exécuter dans Google Colab. Vous avez besoin du dataset *data_cleaned.zip* que l'on importe dans le dossier `/content/`
 Remplacer les fichiers du dossier `/content/TTS-TT2/filelists/` par mes fichiers qui portent le même nom.
