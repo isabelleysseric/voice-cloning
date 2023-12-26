@@ -2,6 +2,9 @@
 <br/>
 <br/>
 
+<p align="center">
+  <img src="https://github.com/isabelleysseric/voice-cloning/blob/main/output/test_model_image.png" />
+</p>  
 
 <p align='center'>
   <a href="https://github.com/isabelleysseric/voice-cloning/tree/main">voice-cloning</a> (GitHub)
