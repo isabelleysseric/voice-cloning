@@ -1,4 +1,4 @@
-# Voice Cloning
+<h1 align="center"> Voice Cloning</h1>
 <br/>
 <br/>
 
