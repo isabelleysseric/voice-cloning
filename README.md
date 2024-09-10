@@ -6,14 +6,24 @@
   <img src="https://github.com/isabelleysseric/voice-cloning/blob/main/output/test_model_image.png" />
 </p>  
 
-<p align='center'>
-  <a href="https://github.com/isabelleysseric/voice-cloning/tree/main">voice-cloning</a> (GitHub)
-  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/voice-cloning/wiki">voice-cloning</a> (Wiki)<br/>
-  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
-  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
-  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
-</p>
-<br/>
+<h2 align="center">    
+
+  <!-- GitHub -->
+  <a href="https://github.com/isabelleysseric/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+  </a>  
+
+  <!-- Project Repo -->
+  <a href="https://github.com/isabelleysseric/Voice-Cloning/">
+    <img src="https://img.shields.io/badge/Repo-Voice_Cloning-green?style=for-the-badge&logo={Voice-Cloning}&logoColor=white" >
+  </a>
+
+  <!-- Wiki Project -->
+  <a href="https://github.com/isabelleysseric/Voice-Cloning/wiki/">
+    <img src="https://img.shields.io/badge/Wiki-Voice_Cloning-green?style=for-the-badge&logo={Voice-Cloning}&logoColor=white" >
+  </a><br> 
+  
+</h2>
 <br/>
 
 **Note**: Le notebook `Voice_cloning_Training_with_Tacotron2_and_WaveGlow.ipynb` est à exécuter dans *Google Colab*. Une fois dans Colab, vous avez besoin d'importer le dataset *data_cleaned.zip* dans le dossier courant `/content/`
